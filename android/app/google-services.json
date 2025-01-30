@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481783365934",
+    "project_id": "fanhubble-bc0cf",
+    "storage_bucket": "fanhubble-bc0cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481783365934:android:0d3274e4c2c0815fe6babf",
+        "android_client_info": {
+          "package_name": "com.fanhubble.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYbSs8NbuugftoeDiBm37a1G4zomVjqT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
