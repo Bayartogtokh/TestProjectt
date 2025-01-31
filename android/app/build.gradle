@@ -113,7 +113,12 @@ dependencies {
     // implementation project(':@react-native-camera-roll_camera-roll')
     implementation project(':react-native-video')
 
+    // implementation platform('com.google.firebase:firebase-bom:33.7.0')
+    // implementation 'com.google.firebase:firebase-messaging'
+    // implementation 'com.google.firebase:firebase-analytics'
 
+    // implementation project(':@react-native-firebase_app')
+    // implementation project(':@react-native-firebase_messaging')
 
     if (hermesEnabled.toBoolean()) {
         implementation("com.facebook.react:hermes-android")
